@@ -483,7 +483,6 @@ a[href="https://support.discord.com"] /* hide help */
 .peopleListItem_d51464:hover /* online list friends */,
 .withTagAsButton_b2ca13:hover, .withTagless_b2ca13:hover /* user panel username */,
 .messageGroupWrapper_ac90a2 /* pinned messages */,
-.accountProfileCard_b69b77 /* my account settings profile background */,
 .userProfileInner_c69a7b /* user profile inner */ {
 	border-radius: var(--roundness-m);
 }
